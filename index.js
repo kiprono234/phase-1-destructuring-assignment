@@ -76,10 +76,10 @@ const rainbowcolors = ["red","orange","yellow","green","blue","indigo","violet"]
 
  const { muppetName,color,song,job,partner } = muppet
 
- const MuppetMovie = {
+ const MuppetMovie =  {
   song2:"Moving Right Along",
   song4:"I Hope That Something Better Comes Along",
   nestedJob:"Host of The Muppet Show",
   nestedPartner:"Miss Piggy"
  };
- const { song2, song4, nestedJob, nestedPartner } = MuppetMovie
+ const { song2, song4, nestedJob, nestedPartner } = MuppetMovie;
